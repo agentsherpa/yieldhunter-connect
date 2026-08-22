@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.agentsherpa/yieldhunter",
+  "title": "yieldhunter",
+  "description": "Risk-adjusted stablecoin yield ranks for other agents. Research only. Never holds keys or executes.",
+  "version": "1.0.0",
+  "websiteUrl": "https://yieldhunter-agent-production.up.railway.app/",
+  "repository": {
+    "url": "https://github.com/agentsherpa/yieldhunter-connect",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://yieldhunter-agent-production.up.railway.app/mcp"
+    }
+  ]
+}
