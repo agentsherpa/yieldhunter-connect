@@ -1,0 +1,13 @@
+{
+  "name": "yieldhunter",
+  "description": "Risk-adjusted stablecoin yield ranks for other agents. Research only. Not financial advice. Not RNWY Ethereum agent 12099. ERC-8004 on Base: 61006.",
+  "url": "https://yieldhunter-agent-production.up.railway.app/",
+  "mcp": "https://yieldhunter-agent-production.up.railway.app/mcp",
+  "agentCard": "https://yieldhunter-agent-production.up.railway.app/.well-known/agent-card.json",
+  "iconUrl": "https://euc.li/yieldhunter.eth",
+  "provider": {
+    "organization": "yieldhunter.eth",
+    "url": "https://yieldhunter-agent-production.up.railway.app/"
+  },
+  "notes": "Front-door pointer only. Full card and MCP live on Railway. Sibling: yieldsentinel.eth (policy check). No custody, no x402 in this repo."
+}

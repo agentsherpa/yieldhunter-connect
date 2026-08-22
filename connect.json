@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "yieldhunter": {
+      "url": "https://yieldhunter-agent-production.up.railway.app/mcp"
+    }
+  }
+}
