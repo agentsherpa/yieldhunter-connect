@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "yieldhunter",
+  "version": "1.0.0",
+  "description": "Risk-adjusted stablecoin yield ranks for agents. Research only. No custody, no execution. yieldhunter.eth / Base 61006 (not RNWY 12099).",
+  "author": {
+    "name": "AgentSherpa",
+    "url": "https://github.com/agentsherpa"
+  },
+  "homepage": "https://yieldhunter-agent-production.up.railway.app/",
+  "repository": "https://github.com/agentsherpa/yieldhunter-connect",
+  "license": "MIT",
+  "keywords": ["mcp", "stablecoin", "yield", "defi", "research", "risk-adjusted", "non-custodial"]
+}
